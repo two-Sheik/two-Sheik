@@ -1,16 +1,17 @@
-### Hi there 👋
+## EAE 🖐️
 
-<!--
-**two-Sheik/two-Sheik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=Revocheats.com&style=for-the-badge&url=https://revocheats.com/)](https://revocheats.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@REVO_CORP)
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XMxrwwkgTG)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSHARP-9B4F96?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/C++-D26383?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/PHP-6181B6?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
+
+
