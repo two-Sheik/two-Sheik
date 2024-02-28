@@ -1,6 +1,6 @@
 ## EAE 🖐️
 
-[![Blog](https://img.shields.io/website?label=Revocheats.com&style=for-the-badge&url=https://revocheats.com/)](https://revocheats.com)
+[![Blog](https://img.shields.io/website?label=Revocheats.com&style=for-the-badge&url=https://mastercheats.store/)](https://mastercheats.store)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@REVO_CORP)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XMxrwwkgTG)
 
